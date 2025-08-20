@@ -9,4 +9,6 @@ Mi nombre es Vanessa y soy de segundo semestre de Ingenieria de sistemas
 - Additional browser support
 
 - Add more integrations
+- Clase agosto veinte
+- 
 
